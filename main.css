@@ -1,0 +1,20 @@
+.navbar {
+	background-color: #5E456E;
+}
+
+.btn {
+	background-color: #A7DBD8;
+	border-color: #A7DBD8;
+}
+
+.btn-default {
+	color: #402817;
+}
+
+.jumbotron {
+    background-color: #B3CC57;
+}
+
+body {
+    background-color: #FFE545;
+}
